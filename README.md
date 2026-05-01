@@ -8,7 +8,7 @@ The recommended version is `Chess.py`, which uses Pygame for smooth rendering an
 
 ```bash
 python3 -m pip install -r requirements.txt
-python3 fast_tournament_chess.py
+python3 CHESS.py
 ```
 
 ## Features
