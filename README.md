@@ -8,7 +8,7 @@ The recommended version is `Chess.py`, which uses Pygame for smooth rendering an
 
 ```bash
 python3 -m pip install -r requirements.txt
-python3 CHESS.py
+python3 Chess.py
 ```
 
 ## Features
